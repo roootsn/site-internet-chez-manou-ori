@@ -1,0 +1,4 @@
+.firebase/
+.firebaserc
+*.log
+.DS_Store
